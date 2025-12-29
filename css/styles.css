@@ -170,3 +170,17 @@ form.submitting .wpcf7-spinner {
 .wpcf7-reflection > output[hidden] {
 	display: none;
 }
+
+.about-h1 {
+	color:#fff;
+	margin-bottom: 10px !important;
+}
+
+ul{
+	gap: 10px;
+}
+ul > li{
+	margin-bottom: 14px;
+	list-style-type: circle;
+}
+
